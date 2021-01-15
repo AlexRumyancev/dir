@@ -9,10 +9,10 @@ import org.springframework.test.context.TestPropertySource;
 class LiveTest {
 
     @Test
-    void getTest() {
+    void getTest2_1() {
     }
 
     @Test
-    void getTest2() {
+    void getTest2_2() {
     }
 }
