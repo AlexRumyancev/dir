@@ -1,0 +1,13 @@
+[Unit]
+Description=test2
+After=network.target
+ 
+[Service]
+Type=simple
+User=admin
+ExecStart=/bin/bash /opt/test2/test2.sh
+Restart=on-failure
+RestartSec=5
+ 
+[Install]
+WantedBy=multi-user.target
