@@ -9,6 +9,6 @@ import org.springframework.test.context.TestPropertySource;
 class LiveTest {
 
     @Test
-    void getTest() {
+    void getTest1() {
     }
 }
