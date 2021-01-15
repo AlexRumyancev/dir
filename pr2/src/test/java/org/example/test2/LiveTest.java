@@ -11,4 +11,8 @@ class LiveTest {
     @Test
     void getTest() {
     }
+
+    @Test
+    void getTest2() {
+    }
 }
