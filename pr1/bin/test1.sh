@@ -1,0 +1,1 @@
+/bin/java -jar /opt/test1/test1.jar --spring.config.location=file:/opt/test1/application.properties
